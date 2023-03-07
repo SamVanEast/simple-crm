@@ -1,0 +1,10 @@
+.dialog_container {
+    position: relative;
+
+    mat-progress-bar {
+        position: absolute;
+        right: 0;
+        left: 0;
+        top: 0;
+    }
+}
